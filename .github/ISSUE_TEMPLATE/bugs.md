@@ -1,7 +1,7 @@
 ---
 name: Bugs
 about: Template per bug
-title: ''
+title: "[NOME BUG]"
 labels: ''
 assignees: ''
 
