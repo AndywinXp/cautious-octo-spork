@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Quale problema stai incontrando?**
+## Quale problema stai incontrando?
 Descrivi brevemente il bug:
 * Quale parte del gioco è affetta? (Grafica, Audio, Gameplay, Testi, ecc.)
 * Cosa succede durante il bug?
@@ -15,11 +15,11 @@ Descrivi brevemente il bug:
 * È riproducibile in modo consistente oppure è un bug che capita di rado e casualmente?
 * Che versione del gioco? (Mac, Windows, ...)
 
-**Come riprodurre**
+## Come riprodurre
 Per riprodurre il bug:
 1. Blabla
 2. Blabla
 3. ...
 
-**Materiale aggiuntivo**
+## Materiale aggiuntivo
 Usa questo spazio per screenshot, clip video o clip audio, se possono aiutare ad identificare meglio il bug.
